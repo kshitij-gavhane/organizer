@@ -1,3 +1,6 @@
+#
+###Author: KSHITIJ GAVHANE
+
 '''
 This script will sort and move the files in the directory
 (the alphabetical order).
